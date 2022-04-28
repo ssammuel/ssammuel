@@ -1,6 +1,5 @@
-### Olá, Eu sou Samuel Gonçalves
+### Olá!
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/ssammuel">
