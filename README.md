@@ -1,1 +1,1 @@
-
+  - uses: user/metrics@main
